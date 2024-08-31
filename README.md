@@ -3,11 +3,9 @@
 ### Edge-aware Attention Transformer for Image Super-Resolution (paper link is coming)
 
 ## Environment
-- [PyTorch >= 1.7](https://pytorch.org/) **(Recommend **NOT** using torch 1.8!!! It would cause abnormal performance.)**
+- [PyTorch == 2.0.1](https://pytorch.org/) 
 - [BasicSR == 1.3.4.9](https://github.com/XPixelGroup/BasicSR/blob/master/INSTALL.md) 
 ### Installation
-Install Pytorch first.
-Then,
 ```
 pip install -r requirements.txt
 python setup.py develop

@@ -1,4 +1,4 @@
-# HAT
+# EAT
 
 ### Edge-aware Attention Transformer for Image Super-Resolution (paper link is coming)
 

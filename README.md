@@ -31,4 +31,7 @@ python eat/test.py -opt options/test/HAT_SRx3.yml
 ```
 The testing results will be saved in the `./results` folder.  
 
+## Thanks
+A part of our work has been facilitated by the [HAT]([https://pytorch.org/](https://github.com/XPixelGroup/HAT))  framework, and we are grateful for its outstanding contribution.
+
 

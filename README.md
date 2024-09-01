@@ -13,7 +13,7 @@ python setup.py develop
 
 ## How To Train
 - Refer to `./options/train` for the configuration file of the model to train.
-- Dataset can be downloaded at the [official website](https://image-net.org/challenges/LSVRC/2012/2012-downloads.php).
+- Dataset can be downloaded at the [Baidu Disk](https://pan.baidu.com/s/1KBrj464wTdgQ6AHNxdQ2mg?pwd=pu8p).
 - The training command is like
 ```
 python eat/train.py -opt options/train/train_HAT_SRx3_from_scratch.yml
